@@ -2971,12 +2971,13 @@ p {
 
 .blog-content {
     display: block;
-    width: 65%;
+    width: 80%;
     margin-right: auto;
-    margin-bottom: 52px;
+    margin-bottom: 50px;
     margin-left: auto;
     font-size: 14px;
     line-height: 22px;
+    text-align: center;
 }
 
 .blog-content h1 {

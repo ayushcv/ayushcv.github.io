@@ -2031,7 +2031,9 @@
         return n.ready = function() {
             var n, r, a, u = o.attr("data-wf-status"),
                 p = o.attr("data-wf-domain") || "";
-            /\.webflow\.io$/i.test(p) && c.hostname !== p && (u = !0), u && !s && (e = e || (n = t('<a class="w-ayush-badge"></a>').attr("href", "https://www.realtor.ca/agent/2154428/ayush-singh-8400-jane-st-unit-9-concord-ontario-l4k4l8"), r = t("<img>").attr("src", "a-symbol.png").attr("alt", "").css({ marginRight: "8px", width: "16px" }), a = t("<img>").attr("src", "contacttest.PNG").attr("alt", "Contact"), n.append(r, a), n[0]), d(), setTimeout(d, 500), t(i).off(f, l).on(f, l))
+            /\.webflow\.io$/i.test(p) && c.hostname !== p && (u = !0), u && !s && (e = e || (n = t('<a class="w-ayush-badge"></a>').attr("href", "https://koalendar.com/e/meet-with-ayush"),
+                r = t("<img>").attr("href", "").attr("alt", "").css({ marginRight: "8px", width: "16px" }),
+                a = t("<img>").attr("src", "https://www.liteoutdoors.com/wp-content/uploads/2019/08/contactus.png").attr("alt", "Contact").css({ marginRight: "30px", width: "60px" }), n.append(r, a), n[0]), d(), setTimeout(d, 500), t(i).off(f, l).on(f, l))
         }, n
     })
 }, function(t, e, n) {
